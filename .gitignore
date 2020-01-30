@@ -1,1 +1,4 @@
 .DS_Store
+config.py
+EmployeeSQL/.ipynb_checkpoints/Bonus_question-checkpoint.ipynb
+EmployeeSQL/__pycache__/config.cpython-37.pyc
